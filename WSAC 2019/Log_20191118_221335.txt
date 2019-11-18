@@ -1,0 +1,4 @@
+[3] 10:13:35 PM: Log started for 'C:\Tosca_Projects\TOSCA_Workspaces\WSAC 2019\WSAC 2019.tws'
+[3] 10:13:35 PM: Log level: 4
+[3] 10:13:35 PM: Release: 12.3.0.26726
+[4] 10:13:35 PM:  ShowStatusInfo: 'Ready'
